@@ -1,2 +1,11 @@
 controllers nơi kết nối giữa models 'code js' với views để hiển thị dữ liệu lên.
 services :chứa những cái liên quan đến request API.
+axios là ? :
+
+  + đồng bộ (synchronous) vs bất đồng bộ(Asynchornous): js là ngôn ngữ đơn luồng,chạy từ trên xuống dưới,chỉ    thực hiện1 chức năng trong 1 lúc.
+  + event loop, wed apis:
+  + ajax :(Asynchornous javascript and xml) là cơ chế
+  + API : dùng để tương tác với server backend : thêm dữ liệu hoặc xóa dữ liệu
+  + http methods
+  + Json là định dạng dữ liệu gồm object,arr... 
+  +xml là định dạng dữ liệu tương tự Json,ko thân thiện với lập trình viên,khó nhìn.
