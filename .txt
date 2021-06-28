@@ -1,0 +1,2 @@
+controllers nơi kết nối giữa models 'code js' với views để hiển thị dữ liệu lên.
+services :chứa những cái liên quan đến request API.
